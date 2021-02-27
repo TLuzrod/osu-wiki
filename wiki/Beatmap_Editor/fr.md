@@ -23,3 +23,7 @@ L'éditeur de beatmap est séparé en 4 sections qui peuvent être vues dans le 
 ## Compose
 
 La création des [objets cliquables](/wiki/Hit_Objects) et des autres éléments de jeux est gérée dans l'onglet [Compose](/wiki/Beatmap_Editor/Compose). La plupart des créateurs de beatmap passent plus de temps dans cet onglet que dans les autres pour cette raison.
+
+## Design
+
+L'onglet [Design](/wiki/Beatmap_Editor/Design) permet de réaliser les [storyboards](/wiki/Storyboards), cet-à-dire les animations qui accompagnent les beatmaps. Étant donné que les storyboards contiennent des effets complexes justifiant l'utilisation d'un nombre conséquent de commandes de storyboard, les mappers utilisent également le [storyboard scripting](/wiki/Storyboard_Scripting) sans entrer dans l'onglet design.
